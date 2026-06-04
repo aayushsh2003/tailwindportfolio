@@ -62,54 +62,133 @@
 
   },
   "experience": [
-    {
-        "jobTitle": "Trainee - SAS Certified Specialist: Visual Business Analytics Using SAS Viya",
-        "company": {
-            "name": "R-CAT",
-            "url": "https://rcat.rajasthan.gov.in/content/raj/rcat/en/home.html"
-        },
-        "location": {
-            "city": "Jaipur",
-            "country": "India"
-        },
-        "duration": {
-            "start": "2025-01",
-            "end": "2025-02"
-        },
-        "responsibilities": [
-            "Completed hands-on training in SAS Visual Business Analytics using SAS Viya.",
-            "Developed analytical solutions using SAS for data-driven decision-making.",
-            "Gained expertise in data visualization, business analytics, and reporting.",
-            "Worked with SAS Viya to analyze datasets and generate business insights."
-        ],
-        "technologiesUsed": [
-            "SAS", "SAS Visual Analytics", "SAS Viya", "Business Analytics"
-        ]
+  {
+    "jobTitle": "Intern",
+    "employmentType": "Internship",
+    "company": {
+      "name": "Rama Innovation",
+      "url": ""
     },
-    {
-        "jobTitle": "Web Development Intern",
-        "company": {
-            "name": "Ui System Pvt. Ltd.",
-            "url": "" 
-        },
-        "location": {
-            "city": "Jaipur",
-            "country": "India"
-        },
-        "duration": {
-            "start": "2023-08",
-            "end": "2023-08"
-        },
-        "responsibilities": [
-            "Assisted in the development of web applications using HTML, CSS, and JavaScript.",
-            "Collaborated with the development team to implement responsive design principles.",
-            "Gained hands-on experience with Git for version control.",
-            "Learned best practices for modern web development."
-        ],
-        "technologiesUsed": [
-            "HTML", "CSS", "JavaScript", "Git", "Bootstrap"
-        ]
-    }
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "workType": "Remote"
+    },
+    "duration": {
+      "start": "2025-05",
+      "end": "2025-07"
+    },
+    "responsibilities": [
+      "Worked on modern web development projects and technical solutions.",
+      "Collaborated with the development team on frontend and backend tasks.",
+      "Enhanced practical knowledge of real-world software development workflows.",
+      "Participated in project discussions, implementation, and deployment activities."
+    ],
+    "technologiesUsed": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Git",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "jobTitle": "Trainee - SAS Certified Specialist: Visual Business Analytics Using SAS Viya",
+    "employmentType": "Apprenticeship",
+    "company": {
+      "name": "R-CAT",
+      "url": "https://rcat.rajasthan.gov.in/content/raj/rcat/en/home.html"
+    },
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "workType": "On-site"
+    },
+    "duration": {
+      "start": "2025-01",
+      "end": "2025-02"
+    },
+    "responsibilities": [
+      "Completed hands-on training in SAS Visual Business Analytics using SAS Viya.",
+      "Developed analytical solutions using SAS for data-driven decision-making.",
+      "Gained expertise in data visualization, business analytics, and reporting.",
+      "Worked with SAS Viya to analyze datasets and generate business insights."
+    ],
+    "certification": {
+      "title": "SAS Certified Specialist: Visual Business Analytics Using SAS Viya Certificate"
+    },
+    "technologiesUsed": [
+      "SAS",
+      "SAS Visual Analytics",
+      "SAS Viya",
+      "Business Analytics"
+    ]
+  },
+  {
+    "jobTitle": "Web Development Intern",
+    "employmentType": "Internship",
+    "company": {
+      "name": "Mission Minded Foundation",
+      "url": ""
+    },
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "workType": "Hybrid"
+    },
+    "duration": {
+      "start": "2024-07",
+      "end": "2024-08"
+    },
+    "responsibilities": [
+      "Developed and maintained responsive web pages using modern web technologies.",
+      "Collaborated with team members to design and implement user-friendly interfaces.",
+      "Worked on frontend development tasks, debugging, and performance improvements.",
+      "Participated in project discussions, testing, and deployment activities."
+    ],
+    "technologiesUsed": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Git"
+    ]
+  },
+  {
+    "jobTitle": "Internship Trainee",
+    "employmentType": "Internship",
+    "company": {
+      "name": "UI Systems Pvt Ltd",
+      "url": ""
+    },
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "workType": "Hybrid"
+    },
+    "duration": {
+      "start": "2023-08",
+      "end": "2023-08"
+    },
+    "responsibilities": [
+      "Assisted in the development of web applications using HTML, CSS, and JavaScript.",
+      "Collaborated with the development team to implement responsive design principles.",
+      "Gained hands-on experience with Git for version control.",
+      "Learned best practices for modern web development."
+    ],
+    "technologiesUsed": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "Bootstrap"
+    ]
+  }
   ],
 
   "education": [
@@ -129,7 +208,7 @@
             "start": "2022-08",
             "end": "2026-06"
         },
-        "score": "CGPA: 9.03 (up to 6th semester)",
+        "score": "CGPA: 9.13",
         "relevantCoursework": [
             "Artificial Intelligence",
             "Machine Learning",
@@ -232,6 +311,168 @@
     }
   ],
   "projects": [
+    {
+      "title": "Aarti Sangrah ki Duniya - आरती संग्रह की दुनिया",
+      "description": "The world's most complete digital collection of sacred Hindu Aartis featuring Hindi (Devanagari) lyrics, English transliteration, English translations, audio playback, karaoke mode, daily aarti suggestions, favorites, reminders, and offline Progressive Web App (PWA) support.",
+      "objectives": [
+        "To preserve and digitally organize Hindu devotional Aartis in a modern and accessible format.",
+        "To provide multilingual accessibility through Hindi lyrics, transliteration, and English translations.",
+        "To offer an immersive devotional experience with audio playback, karaoke mode, and daily recommendations."
+      ],
+      "outcomes": [
+        "Developed a comprehensive digital Aarti platform with hundreds of devotional resources.",
+        "Implemented offline support and mobile-friendly Progressive Web App functionality.",
+        "Enhanced accessibility for devotees worldwide through multilingual content and audio integration."
+      ],
+      "url": "https://aarti-sangrah-ki-duniya.vercel.app/",
+      "technologiesUsed": [
+        "React.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vite",
+        "PWA",
+        "JavaScript"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/Aarti_Sangrah_ki_Duniya.png?raw=true"
+    },
+    {
+      "title": "Chalk Ki Duniya – Whiteboard Animation & Learning Hub",
+      "description": "A modern web-based whiteboard animation and virtual chalkboard platform that enables users to create engaging educational content with realistic handwriting animations, chalk textures, drawing tools, presentation features, and interactive learning experiences.",
+      "objectives": [
+        "To provide educators and students with an online whiteboard animation platform.",
+        "To simulate realistic chalkboard and handwriting effects for educational content creation.",
+        "To improve digital teaching and presentation experiences."
+      ],
+      "outcomes": [
+        "Built a feature-rich whiteboard animation platform with responsive design.",
+        "Implemented realistic handwriting and chalk animation effects.",
+        "Created an interactive learning environment suitable for educational institutions and content creators."
+      ],
+      "url": "https://chalk-ki-duniya.vercel.app/",
+      "technologiesUsed": [
+        "React.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vite",
+        "Canvas API",
+        "JavaScript"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/Chalk_Ki_Duniya.png?raw=true"
+    },
+    {
+      "title": "Windows OS Experience — Windows 11 in Your Browser",
+      "description": "A fully interactive browser-based recreation of a modern Windows 11 desktop experience featuring draggable windows, taskbar, start menu, application management, and responsive desktop interactions.",
+      "objectives": [
+        "To recreate the Windows 11 desktop experience in the browser.",
+        "To demonstrate advanced React and UI engineering concepts.",
+        "To provide an engaging interactive web application."
+      ],
+      "outcomes": [
+        "Implemented draggable and resizable windows.",
+        "Created a responsive desktop environment.",
+        "Showcased advanced frontend architecture and state management."
+      ],
+      "url": "https://windows-os-experience.vercel.app/",
+      "technologiesUsed": [
+        "React.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Vite",
+        "Framer Motion"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/Windows_OS_Experience.png?raw=true"
+    },
+    {
+      "title": "AayushSketchify - AI Photo to Sketch Converter",
+      "description": "A web application that converts uploaded photographs into realistic pencil sketches using computer vision and image processing techniques powered by OpenCV and Python.",
+      "objectives": [
+        "To automate photo-to-sketch conversion using AI techniques.",
+        "To provide users with professional sketch outputs.",
+        "To demonstrate practical computer vision applications."
+      ],
+      "outcomes": [
+        "Successfully implemented image processing workflows using OpenCV.",
+        "Generated realistic pencil sketch outputs.",
+        "Created a simple and user-friendly conversion interface."
+      ],
+      "url": "https://aayushsketchify.vercel.app/",
+      "technologiesUsed": [
+        "Python",
+        "OpenCV",
+        "Flask",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/AayushSketchify.png?raw=true"
+    },
+    {
+      "title": "Battle of Haldighati (1576) - Historical Archive",
+      "description": "A comprehensive educational website dedicated to the Battle of Haldighati (1576), featuring historical research, timelines, biographies, primary sources, and learning resources about Maharana Pratap and the Mughal Empire.",
+      "objectives": [
+        "To preserve and present historical knowledge digitally.",
+        "To provide students with reliable educational resources.",
+        "To showcase historical events using modern web technologies."
+      ],
+      "outcomes": [
+        "Created an organized historical archive platform.",
+        "Improved accessibility to educational historical content.",
+        "Provided research-backed information and resources."
+      ],
+      "url": "https://battle-of-haldighati.vercel.app/",
+      "technologiesUsed": [
+        "React.js",
+        "Tailwind CSS",
+        "JavaScript",
+        "Vite"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/Battle_of_Haldighati.jpg?raw=true"
+    },
+    {
+      "title": "RTU Student Result Analyzer",
+      "description": "A responsive academic result analysis platform that allows students to search, view, and analyze RTU examination results with structured performance insights and simplified result interpretation.",
+      "objectives": [
+        "To simplify RTU result analysis.",
+        "To provide students with performance insights.",
+        "To create an easy-to-use academic dashboard."
+      ],
+      "outcomes": [
+        "Developed a responsive result analysis platform.",
+        "Improved result accessibility and readability.",
+        "Provided clear academic performance visualization."
+      ],
+      "url": "https://rtu-result-analyzer.vercel.app/",
+      "technologiesUsed": [
+        "React.js",
+        "Tailwind CSS",
+        "JavaScript",
+        "REST API"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/RTU_Student_Result_Analyzer.jpg?raw=true"
+    },
+    {
+      "title": "AayushGame Verse - Game Discovery Platform",
+      "description": "A fully responsive game discovery platform powered by the RAWG API that allows users to explore, search, and discover video games through a modern interface.",
+      "objectives": [
+        "To create a game discovery platform using real-world APIs.",
+        "To provide game search and exploration features.",
+        "To improve frontend and state management skills."
+      ],
+      "outcomes": [
+        "Integrated RAWG API successfully.",
+        "Implemented authentication and state management.",
+        "Created a responsive gaming experience."
+      ],
+      "url": "https://aayushgame-verse.vercel.app/",
+      "technologiesUsed": [
+        "React.js",
+        "Redux",
+        "React Bootstrap",
+        "Clerk Authentication",
+        "RAWG API"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Projects/AayushGame_Verse.png?raw=true"
+    },
     {
       "title": "Handwriting Converter - Transform Digital Text to Handwritten Notes",
       "description": "A web-based application that converts digital text into authentic handwritten notes, providing a personal touch for students, educators, and professionals.",
@@ -415,138 +656,328 @@
   ],
 
   "certifications": [
-      {
-        "title": "SAS Certified Specialist: Visual Business Analytics Using SAS Viya",
-        "issuingOrganization": {
-          "name": "SAS",
-          "url": "https://www.sas.com/"
-        },
-        "description": "Certification in Visual Business Analytics using SAS Viya, demonstrating expertise in data visualization and analytics.",
-        "issueDate": "2025-03",
-        "expirationDate": "2030-03",
-        "credentialID": "1292388fb0fa4b3eb29957ad56d36e86",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/SAS%20Certified%20Specialist_%20Visual%20Business%20Analytics%20Using%20SAS%20Viya%20certificate.png?raw=true"
+    {
+      "title": "Fundamentals of Object Oriented Programming",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Roorkee",
+        "url": "https://nptel.ac.in/"
       },
-      {
-        "title": "SAS Visual Analytics 2 for SAS Viya: Advanced",
-        "issuingOrganization": {
-          "name": "SAS",
-          "url": "https://www.sas.com/"
-        },
-        "description": "Advanced course in SAS Visual Analytics 2 for SAS Viya.",
-        "issueDate": "2025-02",
-        "credentialID": "",
-        "image": "https://images.credly.com/size/680x680/images/083c3266-fdc3-46de-9d01-3f5f393542ee/62056_badges_EducationTraining_Learn_BusIntelligence.png"
-        
+      "description": "Completed NPTEL certification on Fundamentals of Object Oriented Programming covering core OOP concepts using C++.",
+      "issueDate": "2026-04",
+      "credentialID": "NPTEL26CS87S1156601727",
+      "skills": [
+        "C++",
+        "Object-Oriented Programming (OOP)"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/Fundamentals%20of%20Object%20Oriented%20Programming.png?raw=true"
+    },
+    {
+      "title": "India-AI Impact Summit Explorer Quiz",
+      "issuingOrganization": {
+        "name": "IndiaAI",
+        "url": "https://indiaai.gov.in/"
       },
-      {
-        "title": "Certificate of Participation in Round 1: Online Assessment of HP Power Lab",
-        "issuingOrganization": {
-          "name": "Unstop",
-          "url": "https://unstop.com/"
-        },
-        "description": "Participation in HP Power Lab's online assessment round.",
-        "issueDate": "2025-01",
-        "credentialID": "8c8fe558-1d25-4e1d-886b-d05641247dc9",
-        "image": "https://d8it4huxumps7.cloudfront.net/lambda-pdfs/certificate-images/8c8fe558-1d25-4e1d-886b-d05641247dc9.jpg"
+      "description": "Participated in the India-AI Impact Summit Explorer Quiz focused on Artificial Intelligence awareness and innovation.",
+      "issueDate": "2026-01",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/INDIA_AI_IMPACT_SUMMIT.jpg?raw=true"
+    },
+    {
+      "title": "Soft Skills",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Roorkee",
+        "url": "https://nptel.ac.in/"
       },
-      {
-        "title": "AI Appreciate Badge - AI For All",
-        "issuingOrganization": {
-          "name": "CBSE and Intel",
-          "url": "https://www.intel.com/"
-        },
-        "description": "Badge awarded for AI awareness and appreciation.",
-        "issueDate": "2024-12",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/Aayush%20Sharma_AI_APPRECIATE_CERTIFICATE.png?raw=true"
+      "description": "Completed NPTEL course on Soft Skills focusing on communication, teamwork, leadership, and professional development.",
+      "issueDate": "2025-11",
+      "credentialID": "NPTEL25HS159S358600168",
+      "skills": [
+        "Soft Skills"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Soft%20Skills.png?raw=true"
+    },
+    {
+      "title": "Responsible & Safe AI Systems",
+      "issuingOrganization": {
+        "name": "International Institute of Information Technology Hyderabad (IIITH)",
+        "url": "https://nptel.ac.in/"
       },
-      {
-        "title": "AI Aware Badge - AI For All",
-        "issuingOrganization": {
-          "name": "CBSE and Intel",
-          "url": "https://www.intel.com/"
-        },
-        "description": "Badge awarded for AI awareness.",
-        "issueDate": "2024-12",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/Aayush%20Sharma_AI_AWARE_CERTIFICATE.png?raw=true"
+      "description": "Completed NPTEL certification on Responsible and Safe AI Systems covering ethical AI, safety, fairness, and responsible deployment of AI technologies.",
+      "issueDate": "2025-11",
+      "credentialID": "NPTEL25CS118S558601429",
+      "skills": [
+        "Artificial Intelligence (AI)"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Responsible%20&%20Safe%20AI%20Systems.png?raw=true"
+    },
+    {
+      "title": "Technovation-2025: 7th Technical Paper & Model Contests – Poornima Nexus",
+      "issuingOrganization": {
+        "name": "Poornima College of Engineering",
+        "url": "https://www.poornima.org/"
       },
-      {
-        "title": "Educational Leadership",
-        "issuingOrganization": {
-          "name": "Indian Institute of Technology, Kharagpur",
-          "url": "https://nptel.ac.in/"
-        },
-        "description": "NPTEL course on Educational Leadership with a score of 83%.",
-        "issueDate": "2024-11",
-        "credentialID": "NPTEL24HS159S1051800977",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Educational%20Leadership.png?raw=true"
+      "description": "Presented the project 'Poornima Nexus: Empowering Students Through Open Source Projects' during Technovation-2025 Technical Paper & Model Contest.",
+      "issueDate": "2025-02",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/TECHNOVATION_2025.jpg?raw=true"
+    },
+    {
+      "title": "Certificate of Appreciation – Technovation 2023",
+      "issuingOrganization": {
+        "name": "Poornima College of Engineering",
+        "url": "https://www.poornima.org/"
       },
-      {
-        "title": "Public Speaking",
-        "issuingOrganization": {
-          "name": "Indian Institute of Technology, Roorkee",
-          "url": "https://nptel.ac.in/"
-        },
-        "description": "Completed NPTEL course on Public Speaking with a score of 61%.",
-        "issueDate": "2024-11",
-        "credentialID": "NPTEL24HS143S851801191",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Public%20Speaking.png?raw=true"
+      "description": "Presented the paper/model titled 'Complete Education' in the CS/IT track at Technovation-2023, an international conference on recent advances in engineering.",
+      "issueDate": "2023-12",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/Technovation_2023.jpg?raw=true"
+    },
+    {
+      "title": "Certificate of Value Added Course in Dynamic Web Development (36 Hrs)",
+      "issuingOrganization": {
+        "name": "Poornima College of Engineering",
+        "url": "https://www.poornima.org/"
       },
-      {
-        "title": "Exploration of the Solar System",
-        "issuingOrganization": {
-          "name": "Indian Institute of Remote Sensing (IIRS), ISRO",
-          "url": "https://www.iirs.gov.in/"
-        },
-        "description": "Studied planetary science, lunar exploration missions, and space research.",
-        "issueDate": "2024-06",
-        "credentialID": "4134a82ca7b0e643acdf5bd8ad9f1afc",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/IIRS.png?raw=true"
+      "description": "Successfully completed a 36-hour Value Added Course in Dynamic Web Development.",
+      "issueDate": "2023-11",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/VAC_CERTIFICATE_2023.jpg?raw=true"
+    },
+    {
+      "title": "Certificate of Value Added Course in MERN",
+      "issuingOrganization": {
+        "name": "Poornima College of Engineering",
+        "url": "https://www.poornima.org/"
       },
-      {
-        "title": "Enhancing Soft Skills and Personality",
-        "issuingOrganization": {
-          "name": "Indian Institute of Technology, Kanpur",
-          "url": "https://nptel.ac.in/"
-        },
-        "description": "NPTEL course on soft skills and personality development, scored 76%.",
-        "issueDate": "2024-04",
-        "credentialID": "NPTEL24HS26S457801776",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Enhancing%20Soft%20Skills%20and%20Personality.png?raw=true"
+      "description": "Completed Value Added Course in MERN Stack Development covering MongoDB, Express.js, React.js, and Node.js.",
+      "issueDate": "2024-11",
+      "skills": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/VAC_NOV_2024.jpg?raw=true"
+    },
+    {
+      "title": "Certificate of Value Added Course in React/NodeJs/JavaScript (30 Hrs)",
+      "issuingOrganization": {
+        "name": "Poornima College of Engineering",
+        "url": "https://www.poornima.org/"
       },
-      {
-        "title": "Developing Soft Skills and Personality",
-        "issuingOrganization": {
-          "name": "Indian Institute of Technology, Kanpur",
-          "url": "https://nptel.ac.in/"
-        },
-        "description": "NPTEL course on developing soft skills.",
-        "issueDate": "2023-09",
-        "credentialID": "NPTEL23HS116S45260102",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Developing%20Soft%20Skills%20and%20Personality.png?raw=true"
+      "description": "Completed a 30-hour Value Added Course focused on React.js, Node.js, and JavaScript development.",
+      "issueDate": "2024-07",
+      "skills": [
+        "React.js",
+        "Node.js",
+        "JavaScript"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/VAC_CERTIFICATE_2024.jpg?raw=true"
+    },
+    {
+      "title": "Certificate of Participation - TATA Crucible Campus Quiz 2025",
+      "issuingOrganization": {
+        "name": "Unstop",
+        "url": "https://unstop.com/"
       },
-      {
-        "title": "Problem Solving Through Programming in C",
-        "issuingOrganization": {
-          "name": "Indian Institute of Technology, Kharagpur",
-          "url": "https://nptel.ac.in/"
-        },
-        "description": "NPTEL certification in C programming problem-solving.",
-        "issueDate": "2023-04",
-        "credentialID": "NPTEL23CS53543791284",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Problem%20Solving%20Through%20Programming%20In%20C.jpg?raw=true"
+      "description": "Participated in the TATA Crucible Campus Quiz 2025 competition.",
+      "issueDate": "2025-11",
+      "credentialID": "ee5188dc-1773-490f-b2b1-59231a24c0c4",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/TATA_CRUCIBLE_2025.jpg?raw=true"
+    },
+    {
+      "title": "SAS AI and Machine Learning Skills Fest",
+      "issuingOrganization": {
+        "name": "SAS",
+        "url": "https://www.sas.com/"
       },
-      {
-        "title": "The Joy of Computing Using Python",
-        "issuingOrganization": {
-          "name": "Indian Institute of Technology, Madras",
-          "url": "https://nptel.ac.in/"
-        },
-        "description": "NPTEL certification in Python programming.",
-        "issueDate": "2023-01",
-        "credentialID": "NPTEL23CS20533790773",
-        "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/The%20Joy%20of%20Computing%20using%20Python.jpg?raw=true"
-      }
+      "description": "Participated in the SAS AI and Machine Learning Skills Fest focused on AI and ML learning initiatives.",
+      "issueDate": "2025-11",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/SAS_AI_ML_SKILLS_FEST.png?raw=true"
+    },
+    {
+      "title": "Certificate of Participation in Adobe India Hackathon",
+      "issuingOrganization": {
+        "name": "Unstop",
+        "url": "https://unstop.com/"
+      },
+      "description": "Participated in Round 1 Online MCQ Assessment Coding Round of Adobe India Hackathon.",
+      "issueDate": "2025-08",
+      "credentialID": "7fa0930c-11c4-4fce-abaf-f6367dab9f54",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/ADOBE_HACKATHON.jpg?raw=true"
+    },
+    {
+      "title": "Online Communication in the Digital Age",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Roorkee",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "Completed NPTEL course on Online Communication in the Digital Age focusing on communication strategies and digital interaction.",
+      "issueDate": "2025-04",
+      "credentialID": "NPTEL25HS59S1247401279",
+      "skills": [
+        "Communication",
+        "Digital Media"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Online%20Communication%20in%20the%20Digital%20Age.png?raw=true"
+    },
+    {
+      "title": "Privacy and Security in Online Social Media",
+      "issuingOrganization": {
+        "name": "International Institute of Information Technology Hyderabad (IIITH)",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "Completed certification focused on privacy, security, and data protection in online social media platforms.",
+      "issueDate": "2025-04",
+      "credentialID": "NPTEL25CS79S647400339",
+      "skills": [
+        "Security",
+        "Data Privacy"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Privacy%20and%20Security%20in%20Online%20Social%20Media.png?raw=true"
+    },
+    {
+      "title": "Deloitte Australia - Technology Job Simulation",
+      "issuingOrganization": {
+        "name": "Forage",
+        "url": "https://www.theforage.com/"
+      },
+      "description": "Completed Deloitte Australia Technology Job Simulation program involving practical technology and problem-solving tasks.",
+      "issueDate": "2025-06",
+      "credentialID": "QP9beYoKhhByPzsTZ",
+      "skills": [
+        "Python"
+      ],
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/DELOITTE_JOB_SIMULATION.png?raw=true"
+    },
+    {
+      "title": "SAS Certified Specialist: Visual Business Analytics Using SAS Viya",
+      "issuingOrganization": {
+        "name": "SAS",
+        "url": "https://www.sas.com/"
+      },
+      "description": "Certification in Visual Business Analytics using SAS Viya, demonstrating expertise in data visualization and analytics.",
+      "issueDate": "2025-03",
+      "expirationDate": "2030-03",
+      "credentialID": "1292388fb0fa4b3eb29957ad56d36e86",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/SAS%20Certified%20Specialist_%20Visual%20Business%20Analytics%20Using%20SAS%20Viya%20certificate.png?raw=true"
+    },
+    {
+      "title": "SAS Visual Analytics 2 for SAS Viya: Advanced",
+      "issuingOrganization": {
+        "name": "SAS",
+        "url": "https://www.sas.com/"
+      },
+      "description": "Advanced course in SAS Visual Analytics 2 for SAS Viya.",
+      "issueDate": "2025-02",
+      "credentialID": "",
+      "image": "https://images.credly.com/size/680x680/images/083c3266-fdc3-46de-9d01-3f5f393542ee/62056_badges_EducationTraining_Learn_BusIntelligence.png"
+      
+    },
+    {
+      "title": "Certificate of Participation in Round 1: Online Assessment of HP Power Lab",
+      "issuingOrganization": {
+        "name": "Unstop",
+        "url": "https://unstop.com/"
+      },
+      "description": "Participation in HP Power Lab's online assessment round.",
+      "issueDate": "2025-01",
+      "credentialID": "8c8fe558-1d25-4e1d-886b-d05641247dc9",
+      "image": "https://d8it4huxumps7.cloudfront.net/lambda-pdfs/certificate-images/8c8fe558-1d25-4e1d-886b-d05641247dc9.jpg"
+    },
+    {
+      "title": "AI Appreciate Badge - AI For All",
+      "issuingOrganization": {
+        "name": "CBSE and Intel",
+        "url": "https://www.intel.com/"
+      },
+      "description": "Badge awarded for AI awareness and appreciation.",
+      "issueDate": "2024-12",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/Aayush%20Sharma_AI_APPRECIATE_CERTIFICATE.png?raw=true"
+    },
+    {
+      "title": "AI Aware Badge - AI For All",
+      "issuingOrganization": {
+        "name": "CBSE and Intel",
+        "url": "https://www.intel.com/"
+      },
+      "description": "Badge awarded for AI awareness.",
+      "issueDate": "2024-12",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/Aayush%20Sharma_AI_AWARE_CERTIFICATE.png?raw=true"
+    },
+    {
+      "title": "Educational Leadership",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Kharagpur",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "NPTEL course on Educational Leadership with a score of 83%.",
+      "issueDate": "2024-11",
+      "credentialID": "NPTEL24HS159S1051800977",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Educational%20Leadership.png?raw=true"
+    },
+    {
+      "title": "Public Speaking",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Roorkee",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "Completed NPTEL course on Public Speaking with a score of 61%.",
+      "issueDate": "2024-11",
+      "credentialID": "NPTEL24HS143S851801191",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Public%20Speaking.png?raw=true"
+    },
+    {
+      "title": "Exploration of the Solar System",
+      "issuingOrganization": {
+        "name": "Indian Institute of Remote Sensing (IIRS), ISRO",
+        "url": "https://www.iirs.gov.in/"
+      },
+      "description": "Studied planetary science, lunar exploration missions, and space research.",
+      "issueDate": "2024-06",
+      "credentialID": "4134a82ca7b0e643acdf5bd8ad9f1afc",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Certificates/IIRS.png?raw=true"
+    },
+    {
+      "title": "Enhancing Soft Skills and Personality",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Kanpur",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "NPTEL course on soft skills and personality development, scored 76%.",
+      "issueDate": "2024-04",
+      "credentialID": "NPTEL24HS26S457801776",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Enhancing%20Soft%20Skills%20and%20Personality.png?raw=true"
+    },
+    {
+      "title": "Developing Soft Skills and Personality",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Kanpur",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "NPTEL course on developing soft skills.",
+      "issueDate": "2023-09",
+      "credentialID": "NPTEL23HS116S45260102",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Developing%20Soft%20Skills%20and%20Personality.png?raw=true"
+    },
+    {
+      "title": "Problem Solving Through Programming in C",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Kharagpur",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "NPTEL certification in C programming problem-solving.",
+      "issueDate": "2023-04",
+      "credentialID": "NPTEL23CS53543791284",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/Problem%20Solving%20Through%20Programming%20In%20C.jpg?raw=true"
+    },
+    {
+      "title": "The Joy of Computing Using Python",
+      "issuingOrganization": {
+        "name": "Indian Institute of Technology, Madras",
+        "url": "https://nptel.ac.in/"
+      },
+      "description": "NPTEL certification in Python programming.",
+      "issueDate": "2023-01",
+      "credentialID": "NPTEL23CS20533790773",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/NPTEL/The%20Joy%20of%20Computing%20using%20Python.jpg?raw=true"
+    }
   ],
 
   "volunteering": [
@@ -582,6 +1013,34 @@
   ],
   "honorsAndAwards": [
     {
+      "title": "Certificate of Appreciation - NPTEL Motivated Learner Star",
+      "issuer": "NPTEL & SWAYAM MHRD",
+      "date": "December 2025",
+      "description": "Awarded the Certificate of Appreciation by NPTEL and SWAYAM MHRD as an 'NPTEL Motivated Learner Star' for dedication towards continuous learning and active participation in NPTEL courses.",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Awards/Nptel_Motivated_Learner_Star.png?raw=true"
+    },
+    {
+      "title": "Award of Excellence - Best Attendance Award",
+      "issuer": "Poornima College of Engineering",
+      "date": "October 2025",
+      "description": "Received the Best Attendance Award during Kalanidhi 2025 for maintaining outstanding attendance, discipline, and commitment throughout the academic session 2024–25.",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Awards/BEST_ATTENDANCE_AWARD.jpg?raw=true"
+    },
+    {
+      "title": "Award of Excellence - Best Non Final Year Project",
+      "issuer": "Poornima College of Engineering",
+      "date": "October 2025",
+      "description": "Honored with the Award of Excellence for the Best Non Final Year Project during Kalanidhi 2025 for innovation, technical implementation, and impactful project development.",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Awards/BEST_NON_FINAL_YEAR_AWARD.jpg?raw=true"
+    },
+    {
+      "title": "Certificate of Appreciation - NPTEL Discipline Star",
+      "issuer": "NPTEL",
+      "date": "June 2025",
+      "description": "Recognized as an 'NPTEL Discipline Star' in Humanities and Social Sciences for exceptional consistency and academic performance in NPTEL courses during Jan–Apr 2025.",
+      "image": "https://github.com/aayushsh2003/tailwindportfolio/blob/main/ALL_Things/Awards/NPTEL_DISCIPLINE_STAR.jpg?raw=true"
+    },
+    {
       "title": "Lok Sabha Election 2024 - First Time Voter",
       "issuer": "CHIEF ELECTORAL OFFICER, RAJASTHAN",
       "date": "April 2024",
@@ -600,7 +1059,7 @@
       "issuer": "Ministry of Jal Shakti",
       "date": "November 2021",
       "description": "Honored to be among the top 25 winners of Ganga Quest 2021, recognizing my knowledge and commitment to river conservation.",
-      "image": "https://media.licdn.com/dms/image/v2/D4E22AQFZqSY4DmHR2A/feedshare-shrink_800/feedshare-shrink_800/0/1699882153450?e=1746057600&v=beta&t=-f9M0D8xNIKMkpjbWpljscNLl1gSj8QUuQbjjxYDCK8"
+      "image": "https://raw.githubusercontent.com/aayushsh2003/tailwindportfolio/refs/heads/main/ALL_Things/Awards/Ganga_Quest.jpeg?raw=true"
     },
     {
       "title": "Certificate of Merit in Mathematics Standard",
