@@ -1,0 +1,24 @@
+# Aayush Sharma Portfolio
+
+> Official portfolio website of Aayush Sharma, also known as Aayush Ki Pehchan. This site highlights projects, certifications, skills, education, experience, and contact information.
+
+## Main Page
+- [Home](https://aayush-ki-pehchan.vercel.app/) : Main portfolio homepage.
+
+## Key Topics
+- Web Development
+- Machine Learning
+- Deep Learning
+- Python Development
+- Portfolio Projects
+- Certifications
+- Engineering Student Profile
+- Jaipur, Rajasthan, India
+
+## Important Files
+- [Sitemap](https://aayush-ki-pehchan.vercel.app/sitemap.xml)
+- [Robots](https://aayush-ki-pehchan.vercel.app/robots.txt)
+
+## Contact
+- Name: Aayush Sharma
+- Website: https://aayush-ki-pehchan.vercel.app/

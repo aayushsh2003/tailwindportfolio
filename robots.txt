@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aayush-ki-pehchan.vercel.app/sitemap.xml
