@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Portfolio Preview](https://aayush-ki-pehchan.vercel.app/preview.png)](https://aayush-ki-pehchan.vercel.app/)
+[![Portfolio Preview](https://github.com/aayushsh2003/tailwindportfolio/blob/main/public/preview.png?raw=true)](https://aayush-ki-pehchan.vercel.app/)
 
 # 👨‍💻 Aayush Sharma
 
@@ -107,7 +107,7 @@ https://aayush-ki-pehchan.vercel.app/
 
 <div align="center">
 
-[![Portfolio Preview](https://aayush-ki-pehchan.vercel.app/preview.png)](https://aayush-ki-pehchan.vercel.app/)
+[![Portfolio Preview](https://github.com/aayushsh2003/tailwindportfolio/blob/main/public/preview.png?raw=true)](https://aayush-ki-pehchan.vercel.app/)
 
 </div>
 
